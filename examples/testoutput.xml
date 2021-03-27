@@ -1,0 +1,32 @@
+<Macros>
+  <Macro name="mytestmacro" Ctrl="yes" Alt="no" Shift="no" Key="116">
+    <Action message="2170" wParam="0" lParam="0" sParam="t" type="1"/>
+    <Action message="2170" wParam="0" lParam="0" sParam="h" type="1"/>
+    <Action message="2170" wParam="0" lParam="0" sParam="i" type="1"/>
+    <Action message="2170" wParam="0" lParam="0" sParam="s" type="1"/>
+    <Action message="2170" wParam="0" lParam="0" sParam="&#x000D;" type="1"/>
+    <Action message="2170" wParam="0" lParam="0" sParam="&#x000A;" type="1"/>
+    <Action message="2170" wParam="0" lParam="0" sParam="&#x000D;" type="1"/>
+    <Action message="2170" wParam="0" lParam="0" sParam="&#x000A;" type="1"/>
+    <Action message="2170" wParam="0" lParam="0" sParam=" " type="1"/>
+    <Action message="2170" wParam="0" lParam="0" sParam="i" type="1"/>
+    <Action message="2170" wParam="0" lParam="0" sParam="s" type="1"/>
+    <Action message="2170" wParam="0" lParam="0" sParam="&#x000D;" type="1"/>
+    <Action message="2170" wParam="0" lParam="0" sParam="&#x000A;" type="1"/>
+    <Action message="2170" wParam="0" lParam="0" sParam="&#x000D;" type="1"/>
+    <Action message="2170" wParam="0" lParam="0" sParam="&#x000A;" type="1"/>
+    <Action message="2170" wParam="0" lParam="0" sParam=" " type="1"/>
+    <Action message="2170" wParam="0" lParam="0" sParam=" " type="1"/>
+    <Action message="2170" wParam="0" lParam="0" sParam="#" type="1"/>
+    <Action message="2170" wParam="0" lParam="0" sParam=" " type="1"/>
+    <Action message="2170" wParam="0" lParam="0" sParam="A" type="1"/>
+    <Action message="2170" wParam="0" lParam="0" sParam="&#x000D;" type="1"/>
+    <Action message="2170" wParam="0" lParam="0" sParam="&#x000A;" type="1"/>
+    <Action message="2170" wParam="0" lParam="0" sParam="&#x000D;" type="1"/>
+    <Action message="2170" wParam="0" lParam="0" sParam="&#x000A;" type="1"/>
+    <Action message="2170" wParam="0" lParam="0" sParam="t" type="1"/>
+    <Action message="2170" wParam="0" lParam="0" sParam="e" type="1"/>
+    <Action message="2170" wParam="0" lParam="0" sParam="s" type="1"/>
+    <Action message="2170" wParam="0" lParam="0" sParam="t" type="1"/>
+  </Macro>
+</Macros>
