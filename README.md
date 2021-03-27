@@ -13,10 +13,10 @@ into a macro for Notepad++.
 
 ## Index
 * [Usage](#usage)
-* [Description](#description)
-* [Requirements](#requirements)
-* [Changelog](#changelog)
-* [Author](#author)
+* [Description](#description-)
+* [Requirements](#requirements-)
+* [Changelog](#changelog-)
+* [Author](#author-)
 
 ## Usage
 
